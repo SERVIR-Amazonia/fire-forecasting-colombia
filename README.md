@@ -46,7 +46,7 @@ The environment variables from the October-December 2021 season and the observed
 
 ## App
 
-The gridded field of predicted upper-tercile file probabilities for the January-March 2023 season for the Colombian Amazon was featured in a publicly-available interactive Earth Engine App named “Aptitud para incendios: Enero-Marzo 2023” which can be accessed through the link: [https://servir-amazonia.earthengine.app/view/aptitud-incendios]([https://servir-amazonia.earthengine.app/view/aptitud-incendios).
+The gridded field of predicted upper-tercile file probabilities for the January-March 2023 season for the Colombian Amazon was featured in a publicly-available interactive Earth Engine App named “Aptitud para incendios: Enero-Marzo 2023” which can be accessed through the link: [https://servir-amazonia.earthengine.app/view/aptitud-incendios](https://servir-amazonia.earthengine.app/view/aptitud-incendios).
 
 NextGen results for DJF 2024: [https://retsalp.users.earthengine.app/view/colamazon-fire-prediction-2024](https://retsalp.users.earthengine.app/view/colamazon-fire-prediction-2024)
 
