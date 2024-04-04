@@ -61,9 +61,10 @@ Given that the prediction is given in a probabilistic form, a quantitative way t
 ## Additional information
 
 - We have been testing the model with NextGen data, rather than ERA5 data.
-- More information about the Methodology and the Evaluation can be found in the following slides:
-    - [ERA5 (EN)](https://docs.google.com/presentation/d/1ya0w3Bfp5ALAKXSVZvNanjxZqKV8cKyj/edit)
-    - [ERA5 (ES)](https://docs.google.com/presentation/d/1CFQ-vf748dZwFzsjDE8O_t54ftfjZm1n/edit)
-    - [NextGen (EN)](https://docs.google.com/presentation/d/1szP6z4tIs4cWkSg6z5whYZYmV7TP9f_a/edit)
-    - [NextGen (ES)](https://docs.google.com/presentation/d/1fDjp7YXcGFO65K0TTa76IUxlvYr4fG5S/edit)
+- More information about the Methodology and the Evaluation can be found in the following slides and documentation:
+    - [Comprehensive documentation](https://docs.google.com/document/d/1tSH5gmMHYIRRtPiZRKCyvtu0Bzt-F4FcV5NK7GWVZ1c/edit)
+    - [ERA5 slides (EN)](https://docs.google.com/presentation/d/1ya0w3Bfp5ALAKXSVZvNanjxZqKV8cKyj/edit)
+    - [ERA5 slides (ES)](https://docs.google.com/presentation/d/1CFQ-vf748dZwFzsjDE8O_t54ftfjZm1n/edit)
+    - [NextGen slides (EN)](https://docs.google.com/presentation/d/1szP6z4tIs4cWkSg6z5whYZYmV7TP9f_a/edit)
+    - [NextGen slides (ES)](https://docs.google.com/presentation/d/1fDjp7YXcGFO65K0TTa76IUxlvYr4fG5S/edit)
 
